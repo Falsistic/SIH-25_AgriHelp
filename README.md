@@ -11,13 +11,13 @@
 - **Team ID:** _[To be updated]_  
 
 ### Members
-- **Team Leader:** @USERNAME  
-- MEMBER_1 – 2024UIC3615 – @Falsistic  
-- MEMBER_2 – 2024UIC3661 – @USERNAME
-- MEMBER_3 – 2024UIC3635 – @USERNAME  
-- MEMBER_4 – 2024UIC3624 – @USERNAME  
-- MEMBER_5 – 2024UIC3679 – @AlgoRhythmP 
-- MEMBER_6 – 2024UIC3598 – @navtej612  
+- **Team Leader:** [@Falsistic](https://github.com/Falsistic)  
+- MEMBER_1 – 2024UIC3615 – [@Falsistic](https://github.com/Falsistic) 
+- MEMBER_2 – 2024UIC3661 – [@navyasardana](https://github.com/navyasardana) 
+- MEMBER_3 – 2024UIC3635 – [@rahul01gupta11](https://github.com/rahul01gupta11) 
+- MEMBER_4 – 2024UIC3624 – [@MM02062006](https://github.com/MM02062006)
+- MEMBER_5 – 2024UIC3679 – [@AlgoRhythmP](https://github.com/AlgoRhythmP) 
+- MEMBER_6 – 2024UIC3598 – [@navtej612](https://github.com/navtej612)  
 
 ---
 
