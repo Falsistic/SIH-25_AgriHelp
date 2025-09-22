@@ -1,4 +1,4 @@
-# 🌱 AgriHelp: AI-Powered Crop Yield Prediction & Optimization
+# 🌱 AgriHelp: AI-Powered Crop Yield Prediction & Optimization (PS 25044)
 
 ## 👥 Team Details
 
@@ -10,14 +10,16 @@
 - **PS Category:** Software  
 - **Team ID:** _[To be updated]_  
 
-### Members
-- **Team Leader:** [@Falsistic](https://github.com/Falsistic)  
-- MEMBER_1 – 2024UIC3615 – [@Falsistic](https://github.com/Falsistic) 
-- MEMBER_2 – 2024UIC3661 – [@navyasardana](https://github.com/navyasardana) 
-- MEMBER_3 – 2024UIC3635 – [@rahul01gupta11](https://github.com/rahul01gupta11) 
-- MEMBER_4 – 2024UIC3624 – [@MM02062006](https://github.com/MM02062006)
-- MEMBER_5 – 2024UIC3679 – [@AlgoRhythmP](https://github.com/AlgoRhythmP) 
-- MEMBER_6 – 2024UIC3598 – [@navtej612](https://github.com/navtej612)  
+- **Team Leader:** [@Falsistic](https://github.com/Falsistic)
+
+### Team Members
+  
+- **MEMBER_1** – 2024UIC3635 – [@rahul01gupta11](https://github.com/rahul01gupta11) 
+- **MEMBER_2** – 2024UIC3598 – [@navtej612](https://github.com/navtej612)
+- **MEMBER_3** – 2024UIC3624 – [@MM02062006](https://github.com/MM02062006)
+- **MEMBER_4** – 2024UIC3661 – [@navyasardana](https://github.com/navyasardana)
+- **MEMBER_5** – 2024UIC3679 – [@AlgoRhythmP](https://github.com/AlgoRhythmP) 
+- **MEMBER_6** – 2024UIC3615 – [@Falsistic](https://github.com/Falsistic) 
 
 ---
 
@@ -26,5 +28,4 @@
 - 📑 **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)  
 - 🎥 **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)  
 - 🌐 **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)  
-- 💻 **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)  
-- 📚 **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)  
+- 💻 **Source Code:** [GitHub Repository](https://github.com/rahul01gupta11/SIH-25)
