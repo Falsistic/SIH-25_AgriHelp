@@ -8,12 +8,12 @@
 
 ### Team Members
   
-- **MEMBER_1** – 2024UIC3635 – [@rahul01gupta11](https://github.com/rahul01gupta11) 
-- **MEMBER_2** – 2024UIC3598 – [@navtej612](https://github.com/navtej612)
-- **MEMBER_3** – 2024UIC3624 – [@MM02062006](https://github.com/MM02062006)
-- **MEMBER_4** – 2024UIC3661 – [@navyasardana](https://github.com/navyasardana)
-- **MEMBER_5** – 2024UIC3679 – [@AlgoRhythmP](https://github.com/AlgoRhythmP) 
-- **MEMBER_6** – 2024UIC3615 – [@Falsistic](https://github.com/Falsistic) 
+- **MEMBER_1** – 2024UIC3635 – Rahul Gupta [@rahul01gupta11](https://github.com/rahul01gupta11) 
+- **MEMBER_2** – 2024UIC3598 – Navtej Singh Thukral[@navtej612](https://github.com/navtej612)
+- **MEMBER_3** – 2024UIC3624 – Mansha Malhotra[@MM02062006](https://github.com/MM02062006)
+- **MEMBER_4** – 2024UIC3661 – Navya Sardana[@navyasardana](https://github.com/navyasardana)
+- **MEMBER_5** – 2024UIC3679 – Parkhi Mudgal[@AlgoRhythmP](https://github.com/AlgoRhythmP) 
+- **MEMBER_6** – 2024UIC3615 – Kumar Utkarsh[@Falsistic](https://github.com/Falsistic) 
 
 ---
 
