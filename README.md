@@ -21,5 +21,5 @@
 
 - 📑 **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)  
 - 🎥 **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)  
-- 🌐 **Live Deployment:** [View Deployment](https://sih-25-c113.vercel.app/))  
+- 🌐 **Live Deployment:** [View Deployment](https://sih-25-c113.vercel.app/)  
 - 💻 **Source Code:** [GitHub Repository](https://github.com/Falsistic/SIH-25_AgriHelp/tree/main/code)
