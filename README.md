@@ -4,7 +4,7 @@
 
 - **Team Name:** SemiColon  
 
-- **Team Leader:** [@Falsistic](https://github.com/Falsistic)
+- **Team Leader:** Kumar Utkarsh [@Falsistic](https://github.com/Falsistic)
 
 ### Team Members
   
