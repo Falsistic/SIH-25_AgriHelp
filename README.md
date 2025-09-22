@@ -1,14 +1,8 @@
-# 🌱 AgriHelp: AI-Powered Crop Yield Prediction & Optimization (PS 25044)
+# PS 25044: AI-Powered Crop Yield Prediction & Optimization
 
 ## 👥 Team Details
 
 - **Team Name:** SemiColon  
-- **Hackathon:** Smart India Hackathon 2025  
-- **Problem Statement ID:** 25044  
-- **Problem Statement Title:** AI-Powered Crop Yield Prediction and Optimization  
-- **Theme:** Agriculture, FoodTech & Rural Development  
-- **PS Category:** Software  
-- **Team ID:** _[To be updated]_  
 
 - **Team Leader:** [@Falsistic](https://github.com/Falsistic)
 
